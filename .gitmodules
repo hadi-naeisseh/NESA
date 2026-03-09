@@ -1,0 +1,40 @@
+[submodule "Drivers/STM32WLxx_HAL_Driver"]
+	path = Drivers/STM32WLxx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32wlxx_hal_driver.git
+	branch = main
+[submodule "Drivers/CMSIS/Device/ST/STM32WLxx"]
+	path = Drivers/CMSIS/Device/ST/STM32WLxx
+	url = https://github.com/STMicroelectronics/cmsis_device_wl.git
+	branch = main
+[submodule "Drivers/BSP/STM32WLxx_Nucleo"]
+	path = Drivers/BSP/STM32WLxx_Nucleo
+	url = https://github.com/STMicroelectronics/stm32wlxx-nucleo-bsp
+	branch = main
+[submodule "Drivers/BSP/B-WL5M-SUBG"]
+	path = Drivers/BSP/B-WL5M-SUBG
+	url = https://github.com/STMicroelectronics/b-wl5m-subg1-bsp
+	branch = main
+[submodule "Drivers/BSP/Components/Common"]
+	path = Drivers/BSP/Components/Common
+	url = https://github.com/STMicroelectronics/stm32-bsp-common.git
+	branch = main
+[submodule "Drivers/BSP/Components/iis2mdc"]
+	path = Drivers/BSP/Components/iis2mdc
+	url = https://github.com/STMicroelectronics/stm32-iis2mdc
+	branch = main
+[submodule "Drivers/BSP/Components/ilps22qs"]
+	path = Drivers/BSP/Components/ilps22qs
+	url = https://github.com/STMicroelectronics/stm32-ilps22qs
+	branch = main
+[submodule "Drivers/BSP/Components/ism330dhcx"]
+	path = Drivers/BSP/Components/ism330dhcx
+	url = https://github.com/STMicroelectronics/stm32-ism330dhcx.git
+	branch = main
+[submodule "Drivers/BSP/Components/stts22h"]
+	path = Drivers/BSP/Components/stts22h
+	url = https://github.com/STMicroelectronics/stm32-stts22h.git
+	branch = main
+[submodule "Drivers/BSP/Components/mx25l4006"]
+	path = Drivers/BSP/Components/mx25l4006
+	url = https://github.com/STMicroelectronics/stm32-mx25l4006
+	branch = main
